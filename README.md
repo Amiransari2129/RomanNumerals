@@ -19,4 +19,6 @@ This project provides an API for converting between Roman numerals and decimal n
    ```
 
 2. To run:
+   ```sh
    dotnet build -> cd src/RomanNumerals.Api -> dotnet run -> open localhost:<port> (it will redirect to swagger ui)
+   ```
